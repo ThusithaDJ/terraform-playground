@@ -9,8 +9,8 @@ terraform {
 
 provider "aws" {
   region = "us-east-1"
-  access_key = "AKIAQ66CT2I46X4EUBET"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
 }
 
 # Pre - Create a keypair in EC2 Key Pairs
